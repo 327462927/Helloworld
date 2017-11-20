@@ -19,6 +19,7 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Class1.php" />
     <Compile Include="index.php" />
   </ItemGroup>
   <ItemGroup>
